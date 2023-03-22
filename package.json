@@ -1,0 +1,14 @@
+{
+  "name": "asincronismojavascript",
+  "version": "1.0.0",
+  "description": " curso de asincronismo con js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agustin Gomez gomez.agustin@outlook.com.ar",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
